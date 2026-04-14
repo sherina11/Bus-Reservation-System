@@ -16,4 +16,4 @@ gcc bus.c -o bus
 ./bus
 
 ## Author
-Sherina
+Raja Sherina
